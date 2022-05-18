@@ -1,0 +1,9 @@
+.On-hover:hover
+{
+ cursor: pointer;
+}
+.bgcolor-App
+{
+    background-color: rgb(204, 112, 75);
+    /* width:max-content */
+}
